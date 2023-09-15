@@ -9,3 +9,5 @@ class Bowler(Player):
     print("the bowler is bowling")
 batsman=Batsman()
 bowler=Bowler()
+batsman.play()
+bowler.play()
